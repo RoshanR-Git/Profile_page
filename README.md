@@ -80,5 +80,7 @@ Focus on semantic HTML and readability.
 ## Output:
 ![image](https://github.com/user-attachments/assets/d0becba6-8ebb-4b8a-bfc1-782568cfc0d1)
 
+## Live Web Page:
+ https://roshanr-git.github.io/Profile_page/
 ## Result:
 A simple Profile Page using HTML that displays a user's profile image, name, headings, and a short bio, suitable for personal or academic purposes is designed successfully.
