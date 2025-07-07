@@ -1,5 +1,5 @@
 # Profile Page
-## Date:
+## Date: 07.07.2025
 ## Objective:
 
 To design a simple Profile Page using HTML that displays a user's profile image, name, headings, and a short bio, suitable for personal or academic purposes.
@@ -42,7 +42,43 @@ Do not use CSS or JavaScript.
 
 Focus on semantic HTML and readability.
 ## HTML Code:
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Profile</title>
+</head>
+<body>
+
+  <header>
+    <h1>Roshan R</h1>
+    <h2>Student</h2>
+    <h3>FullStack Developer</h3>
+  </header>
+
+  <hr>
+  <section>
+    <img src="Ghibli edit.jpg" alt="Profile picture of Roshan R" width="200" height="200">
+    <p>Hello! I'm a passionate learner exploring the world of web development. I enjoy solving algorithmic problems. My current focus is on building strong foundations in HTML, CSS, and JavaScript.</p>
+  </section>
+
+  <hr>
+
+  <section>
+    <h2>Interests</h2>
+    <ul>
+      <li>Full-Stack Web Development (HTML, CSS, JavaScript)</li>
+      <li>Java Programming</li>
+      <li>Data Analysis & Visualization</li>
+    </ul>
+  </section>
+
+</body>
+</html>
+```
+
 ## Output:
+![image](https://github.com/user-attachments/assets/d0becba6-8ebb-4b8a-bfc1-782568cfc0d1)
 
 ## Result:
 A simple Profile Page using HTML that displays a user's profile image, name, headings, and a short bio, suitable for personal or academic purposes is designed successfully.
